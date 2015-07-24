@@ -43,7 +43,7 @@ end
 $g = Hash.new
 hashtag = "#飯テロ金沢 画像提供：ぐるなび"
 
-randamize = rand(5)
+randamize = rand(10)
 case randamize
 when 0 then
   $g["photo_url"] = "./img/8ban.jpg"
