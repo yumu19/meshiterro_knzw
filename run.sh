@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /Users/yumu/src/meshiterro_knzw
+cd /home/yumu/meshiterro_knzw
 ruby main.rb
