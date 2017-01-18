@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/yumu/meshiterro_knzw
-ruby main.rb
+cd ~/meshiterro_knzw
+/usr/local/bin/bundle exec ruby main.rb >> log
