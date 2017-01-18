@@ -1,4 +1,5 @@
 # encoding: utf-8
+require 'bundler/setup'
 require 'twitter'
 require 'open-uri'
 require 'json'
